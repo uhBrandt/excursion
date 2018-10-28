@@ -25,3 +25,8 @@ p {
   font-size: 16px;
   color: Aquamarine;
 }
+
+.footer {
+  text-align: right;
+  color: Gray;
+}
